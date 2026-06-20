@@ -20,3 +20,9 @@ nano ~/.zshrc
 zsh
 ```
 
+## ai-config
+
+
+```
+code ~/.pi/agent/models.json
+```
